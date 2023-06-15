@@ -1,0 +1,12 @@
+INSERT INTO `products` (`name`, `code`, `price`, `image`) VALUES ('Apple', 'APPLE', 1.5, 'https://cdn.britannica.com/22/187222-050-07B17FB6/apples-on-a-tree-branch.jpg');
+INSERT INTO `products` (`name`, `code`, `price`, `image`) VALUES ('Banana', 'BANANA', 3, 'https://cdn.britannica.com/56/194356-050-1F919D81/bananas-Gros-Michel.jpg');
+INSERT INTO `products` (`name`, `code`, `price`, `image`) VALUES ('Orange', 'ORANGE', 2.2, 'https://cdn.britannica.com/24/174524-050-A851D3F2/Oranges.jpg');
+INSERT INTO `products` (`name`, `code`, `price`, `image`) VALUES ('Pear', 'PEAR', 2.7, 'https://cdn.britannica.com/86/9686-050-C65E6B05/Fruits-pear.jpg');
+INSERT INTO `products` (`name`, `code`, `price`, `image`) VALUES ('Peach', 'PEACH', 3, 'https://cdn.britannica.com/68/124168-050-33A2B851/Fruit-peach-tree.jpg');
+INSERT INTO `products` (`name`, `code`, `price`, `image`) VALUES ('Watermelon', 'WATERMELON', 15, 'https://cdn.britannica.com/99/143599-050-C3289491/Watermelon.jpg');
+INSERT INTO `products` (`name`, `code`, `price`, `image`) VALUES ('Mango', 'MANGO', 4.2, 'https://cdn.britannica.com/06/75906-050-16A53398/mango-fruits.jpg');
+INSERT INTO `products` (`name`, `code`, `price`, `image`) VALUES ('Kiwi', 'KIWI', 3.5, 'https://cdn.britannica.com/45/126445-050-4C0FA9F6/Kiwi-fruit.jpg');
+INSERT INTO `products` (`name`, `code`, `price`, `image`) VALUES ('Grape', 'GRAPE', 4.5, 'https://cdn.britannica.com/39/108039-050-3F22EDED/grapes.jpg');
+INSERT INTO `products` (`name`, `code`, `price`, `image`) VALUES ('Strawberry', 'STRAWBERRY', 1, 'https://cdn.britannica.com/22/75922-050-D3982BD0/flowers-fruits-garden-strawberry-plant-species.jpg');
+INSERT INTO `products` (`name`, `code`, `price`, `image`) VALUES ('Cherry', 'CHERRY', 0.4, 'https://cdn.britannica.com/60/174560-050-5A33606F/cherries-Cluster.jpg');
+INSERT INTO `products` (`name`, `code`, `price`, `image`) VALUES ('Pineapple', 'PINEAPPLE', 8, 'https://cdn.britannica.com/54/119354-050-FA32210A/pineapple.jpg');
