@@ -26,7 +26,7 @@
 
     <div class="info">
       <h3>
-        Welcome to webshop where you can buy fruits. Use buttons above to navigate to different sections of the application.
+        Welcome to the webshop where you can buy fruits. Use buttons above to navigate to different sections of the page.
       </h3>
     </div>
   </body>
